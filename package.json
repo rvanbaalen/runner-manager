@@ -10,6 +10,9 @@
     "github",
     "actions"
   ],
+  "engines": {
+    "node": ">=22"
+  },
   "homepage": "https://github.com/rvanbaalen/runner-manager#readme",
   "bugs": {
     "url": "https://github.com/rvanbaalen/runner-manager/issues"
