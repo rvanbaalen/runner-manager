@@ -45,11 +45,11 @@ Shut down any runners that are currently active. Make sure your runners are curr
 
 ## 3. Add a new runner
 
-## GitHub Runner Settings Screenshot
-
-Here is an example screenshot of the settings:
+Here is an example screenshot of the manual Github Runner install instructions:
 
 <img src="assets/screenshot-github-runner-settings.png" alt="GitHub Runner Settings" width="700" />
+
+Copy the SHA and the Token for later use.
 
 > ℹ️ The defaults are based on the, as of this time, current version.
 > Feel free to send a PR when these need to be updated.
