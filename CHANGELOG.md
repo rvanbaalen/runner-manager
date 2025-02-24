@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.0.1...runner-manager-v1.0.2) (2025-02-24)
+
+
+### Bug Fixes
+
+* **NPM:** add package lock file ([ab2b61b](https://github.com/rvanbaalen/runner-manager/commit/ab2b61b36daf866430e75168352485d13e51985c))
+
 ## [1.0.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.0.0...runner-manager-v1.0.1) (2025-02-24)
 
 
