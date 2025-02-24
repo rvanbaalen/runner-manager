@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.0.3...runner-manager-v1.1.0) (2025-02-24)
+
+
+### Features
+
+* add extensive documentation ([e264552](https://github.com/rvanbaalen/runner-manager/commit/e264552e12569ffff4feafaa57a3ab13e3dab98c))
+
 ## [1.0.3](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.0.2...runner-manager-v1.0.3) (2025-02-24)
 
 
