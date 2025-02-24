@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.0.0...runner-manager-v1.0.1) (2025-02-24)
+
+
+### Bug Fixes
+
+* **CI:** keep permissions ([2caa25f](https://github.com/rvanbaalen/runner-manager/commit/2caa25f0cc77d3bb564ba4f9905559340471cf3e))
+* **CI:** publish to npm ([ff67ef9](https://github.com/rvanbaalen/runner-manager/commit/ff67ef9d56a60b9ee9aee8e2525af94d2f1ad219))
+* dont use deprecated action ([ab4b1d9](https://github.com/rvanbaalen/runner-manager/commit/ab4b1d9431724c4c9dbbdaf4d61bec488d6ead9c))
+
 ## 1.0.0 (2025-02-24)
 
 
