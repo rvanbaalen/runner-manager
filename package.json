@@ -1,0 +1,31 @@
+{
+  "name": "runner-manager",
+  "version": "0.0.0",
+  "description": "A basic CLI to manage Github self-hosted runners on your machine",
+  "keywords": [
+    "github",
+    "actions",
+    "runners",
+    "runner",
+    "github",
+    "actions"
+  ],
+  "homepage": "https://github.com/rvanbaalen/runner-manager#readme",
+  "bugs": {
+    "url": "https://github.com/rvanbaalen/runner-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvanbaalen/runner-manager.git"
+  },
+  "bin": {
+    "runner-manager": "./index.js"
+  },
+  "license": "MIT",
+  "author": "Robin van Baalen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
