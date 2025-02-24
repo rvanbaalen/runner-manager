@@ -65,7 +65,7 @@ The CLI will prompt you for several inputs:
 - - **For macOS**: Options are x64 or ARM64 (default: ARM64).
 - - **For Linux**: Options are x64, ARM, or ARM64 (default: x64).
 
-_* The token that is being referred to here, is the token as being shown in the config step _
+_* The token that is being referred to here, is the token as being shown in the screenshot above_
 
 Based on these inputs, the CLI downloads the appropriate runner tarball using the following pattern:
 
