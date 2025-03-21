@@ -29,7 +29,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --config=ghpages.config.js",
     "build": "vite build --config=ghpages.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
