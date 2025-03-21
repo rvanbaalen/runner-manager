@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.1.1...runner-manager-v1.2.0) (2025-03-21)
+
+
+### Features
+
+* add development and build scripts with Vite, and update devDependencies ([276f313](https://github.com/rvanbaalen/runner-manager/commit/276f313c4c0afeb666c85a278d68d198881d38d1))
+* add readme-to-html config file ([4094eb2](https://github.com/rvanbaalen/runner-manager/commit/4094eb2eab2b72c01e5d26ed15e3820d0b98f908))
+* add Vite configuration for GitHub Pages deployment with Tailwind CSS ([37b94c8](https://github.com/rvanbaalen/runner-manager/commit/37b94c850d7af9b5ab95dfec3f0d47bdce3d9884))
+
+
+### Bug Fixes
+
+* update Vite dev and build scripts to use GitHub Pages configuration ([bffa418](https://github.com/rvanbaalen/runner-manager/commit/bffa41852edef8323ee080d6d023346c1a010658))
+
 ## [1.1.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.1.0...runner-manager-v1.1.1) (2025-02-24)
 
 
