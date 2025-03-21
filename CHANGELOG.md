@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.2.1...runner-manager-v1.3.0) (2025-03-21)
+
+
+### Features
+
+* enhance GitHub Actions workflow for automated release and deployment to GitHub Pages ([b46d082](https://github.com/rvanbaalen/runner-manager/commit/b46d0823cd61f51633d5325facba784e02b7fbfb))
+
 ## [1.2.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.2.0...runner-manager-v1.2.1) (2025-03-21)
 
 
