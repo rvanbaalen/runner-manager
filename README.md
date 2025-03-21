@@ -1,13 +1,15 @@
 # runner-manager
 
+## Description
+
 A CLI tool to manage GitHub self-hosted runners on your machine.
 
-# Installation
+## Installation
 
 Optionally, you can install this package globally
 `npm install -g runner-manager`
 
-# Usage
+## Usage
 
 Create a folder in which you're going to keep your Github Action runner files. In this 
 folder, the CLI will also create a cache folder and optionally save the config file.
@@ -28,22 +30,22 @@ runner-manager
 
 if you installed globally.
 
-You’ll be presented with a menu:
+You'll be presented with a menu:
 
 1. Start runners – Starts all configured runners.
 1. Quit runners – Stops all running runners.
 1. Add new runner – Guides you through setting up a new runner.
 
-## 1. Start runners
+### 1. Start runners
 This will execute the `./run.sh` script in every `runner-[number]` subfolder. And this 
 way, you can easily fire up multiple GitHub Action runners with a single command.
 
-## 2. Quit runners
+### 2. Quit runners
 > ⚠️ This will terminate the process and might interrupt any running jobs
 
 Shut down any runners that are currently active. Make sure your runners are currently idle. 
 
-## 3. Add a new runner
+### 3. Add a new runner
 
 Here is an example screenshot of the manual Github Runner install instructions:
 
@@ -71,19 +73,22 @@ Based on these inputs, the CLI downloads the appropriate runner tarball using th
 
 `actions-runner-[osx/linux]-[lowercase architecture]-[version].tar.gz`
 
-# Configuration and settings defaults
+## Configuration and settings defaults
 
 If a `runners.config.json` file is present in the current directory, its values will be used as defaults. 
-Otherwise, after adding a new runner is added, you’ll be prompted to save the current settings as 
+Otherwise, after adding a new runner is added, you'll be prompted to save the current settings as 
 defaults in a new `runners.config.json` file for future use.
 
-# Cleanup
+## Cleanup
 
 If any command fails during runner setup, the script automatically cleans up by removing the runner folder.
 
-# License
+## Contributing
 
-See LICENSE file
+Contributions are welcome! Please feel free to [open an issue](https://github.com/rvanbaalen/runner-manager/issues) or [submit a pull request](https://github.com/rvanbaalen/runner-manager/pulls).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rvanbaalen/runner-manager/blob/main/LICENSE) file for details.
 
 Happy self-hosting! 🤖
- 
