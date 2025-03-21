@@ -6,9 +6,7 @@
     "github",
     "actions",
     "runners",
-    "runner",
-    "github",
-    "actions"
+    "runner"
   ],
   "engines": {
     "node": ">=22"
