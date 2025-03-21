@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.2.0...runner-manager-v1.2.1) (2025-03-21)
+
+
+### Bug Fixes
+
+* remove duplicate entries in package.json dependencies ([742dda0](https://github.com/rvanbaalen/runner-manager/commit/742dda0148af16a183656f2fa79c991222588c18))
+
 ## [1.2.0](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.1.1...runner-manager-v1.2.0) (2025-03-21)
 
 
