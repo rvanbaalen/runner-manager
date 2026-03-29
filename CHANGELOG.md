@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.3.1...runner-manager-v1.3.2) (2026-03-29)
+
+
+### Bug Fixes
+
+* correct broken meta tags, wrong socialify project, invalid section ID, and self-referencing links ([6f24d33](https://github.com/rvanbaalen/runner-manager/commit/6f24d33461e1bd44627f1782ccda5ce6c0e496a9))
+* correct footer copyright link replacement to use literal © character ([28a7653](https://github.com/rvanbaalen/runner-manager/commit/28a7653f62af404bc1403f48989986ac7b23eacd))
+
 ## [1.3.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.3.0...runner-manager-v1.3.1) (2026-03-29)
 
 
