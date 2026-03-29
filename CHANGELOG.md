@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.3.0...runner-manager-v1.3.1) (2026-03-29)
+
+
+### Bug Fixes
+
+* align build output dir with deploy workflow ([675cbf2](https://github.com/rvanbaalen/runner-manager/commit/675cbf239fb8b69001e3cf56a382f029e1f62dd4))
+* update base path for custom domain ([91a7ab8](https://github.com/rvanbaalen/runner-manager/commit/91a7ab8f7c901cd5ac1eff56c173aafe43ea668a))
+
 ## [1.3.0](https://github.com/rvanbaalen/runner-manager/compare/runner-manager-v1.2.1...runner-manager-v1.3.0) (2025-03-21)
 
 
