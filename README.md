@@ -73,7 +73,7 @@ Based on these inputs, the CLI downloads the appropriate runner tarball using th
 
 `actions-runner-[osx/linux]-[lowercase architecture]-[version].tar.gz`
 
-## Configuration and settings defaults
+## Configuration
 
 If a `runners.config.json` file is present in the current directory, its values will be used as defaults. 
 Otherwise, after adding a new runner is added, you'll be prompted to save the current settings as 
