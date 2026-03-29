@@ -22,6 +22,6 @@ export default {
     // Fix "All my projects" link to point to the main portfolio site
     "href=\"/\" class=\"hover:text-white/80 transition px-2 py-1\">&larr; All my projects": "href=\"https://robinvanbaalen.nl\" class=\"hover:text-white/80 transition px-2 py-1\">&larr; All my projects",
     // Fix footer copyright link
-    "href=\"/\" class=\"hover:text-sky-300 transition\">&copy;": "href=\"https://robinvanbaalen.nl\" class=\"hover:text-sky-300 transition\">&copy;",
+    "href=\"/\" class=\"hover:text-sky-300 transition\">©": "href=\"https://robinvanbaalen.nl\" class=\"hover:text-sky-300 transition\">©",
   },
 }
